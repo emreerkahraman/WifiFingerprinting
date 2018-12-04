@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1078483543565",
+    "firebase_url": "https://wififingerprinting-e9244.firebaseio.com",
+    "project_id": "wififingerprinting-e9244",
+    "storage_bucket": "wififingerprinting-e9244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078483543565:android:399186d8e48f4bd5",
+        "android_client_info": {
+          "package_name": "com.example.emre.wififingerprinting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078483543565-omebab2pnltpbqi4qv0ff0fc3bcbruck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emre.wififingerprinting",
+            "certificate_hash": "91632201ea13713d4f66c05065dad4a1dba907c3"
+          }
+        },
+        {
+          "client_id": "1078483543565-5nijn71es8mb13sk194h02n32qv0r0e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29-GgvATG6QzwsMg0r-BXKxHBc9EJZA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078483543565-5nijn71es8mb13sk194h02n32qv0r0e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

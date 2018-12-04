@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wifi Fingerprinting</string>
+    <string name="Scan">Scan</string>
+    <string name="save">SAVE</string>
+    <string name="y_0">Y : 0</string>
+    <string name="x_0">X : 0</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="scan">SCAN</string>
+    <string name="edit">EDIT</string>
+
+
+</resources>
