@@ -1,2 +1,2 @@
 # WifiFingerprinting
-Indoor Location Wifi Fingerprinting
+Indoor Location Wi-Fi Fingerprinting
